@@ -11,6 +11,7 @@ o Why does this project exist?
 § An overview of the project (what is it)
 § Why did you create this project
 § Project approaches (Methodologies – TDD? Kanban Boards? etc)
+
 o When did you complete the project? At what stage of your journey?
 • Built With
 o A list of technologies and dependencies used in the project
